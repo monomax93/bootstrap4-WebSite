@@ -8,7 +8,6 @@ https://mdbootstrap.com/
 Getting started:
 https://mdbootstrap.com/getting-started/
 
-<<<<<<< HEAD
 Tutorials:
 MDB-Bootstrap: https://mdbootstrap.com/bootstrap-tutorial/
 MDB-Wordpress: https://mdbootstrap.com/wordpress-tutorial/
