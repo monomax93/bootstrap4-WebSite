@@ -12,4 +12,4 @@ Tutorials:
 MDB-Bootstrap: https://mdbootstrap.com/bootstrap-tutorial/
 MDB-Wordpress: https://mdbootstrap.com/wordpress-tutorial/
 
-![](./demo/demo.jpg?raw=true "Material Design Bootstrap")
+![](/demo/demo.jpg?raw=true "Material Design Bootstrap")
