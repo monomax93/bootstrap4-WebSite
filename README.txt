@@ -12,4 +12,4 @@ Tutorials:
 MDB-Bootstrap: https://mdbootstrap.com/bootstrap-tutorial/
 MDB-Wordpress: https://mdbootstrap.com/wordpress-tutorial/
 
-![](/demo/demo2.png?raw=true "Bootstrap 4")
+![](./demo/demo2.png?raw=true "Bootstrap 4")
