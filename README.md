@@ -8,8 +8,4 @@ https://mdbootstrap.com/
 Getting started:
 https://mdbootstrap.com/getting-started/
 
-Tutorials:
-MDB-Bootstrap: https://mdbootstrap.com/bootstrap-tutorial/
-MDB-Wordpress: https://mdbootstrap.com/wordpress-tutorial/
-
 ![](./demo/preview.jpg?raw=true "Material Design Bootstrap")
